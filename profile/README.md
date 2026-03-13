@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Pabasara Palihena</h1>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -10,7 +10,7 @@
 
 **🔍 Working on transforming sensor and industrial data into semantic knowledge graphs**
 
----
+
 
 ## 🛠️ Technologies & Tools
 
@@ -38,25 +38,25 @@ GraphDB • Neo4j • SPARQL • SHACL
 **Tools & Platforms**
 Git • Jira • Confluence • Postman • Protégé • Azure • Heroku • Overleaf
 
----
+
 
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PabasaraPalihena\&show_icons=true\&theme=radical)
 
----
+
 
 ## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabasaraPalihena\&layout=compact\&theme=radical)
 
----
+
 
 ## 👀 Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=PabasaraPalihena\&color=blue)
 
----
+
 
 ## ⚡ Fun Facts
 
