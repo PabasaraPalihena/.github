@@ -14,28 +14,28 @@
 
 ## 🛠️ Technologies & Tools
 
-**Programming Languages**
+**Programming Languages:**
 JavaScript • TypeScript • Python • Java • C • C#
 
-**Frameworks & Libraries**
+**Frameworks & Libraries:**
 React.js • Vite • Next.js • Angular • Node.js • Express.js • Koa.js • FastAPI • .NET
 
-**Web Technologies & UI**
+**Web Technologies & UI:**
 HTML • CSS • Tailwind CSS • Bootstrap • Material UI • AJAX
 
-**Artificial Intelligence**
+**Artificial Intelligence:**
 Machine Learning • Deep Learning • Transfer Learning
 
-**Mobile Development**
+**Mobile Development:**
 Android Studio (Java) • Flutter • React Native
 
-**Databases**
+**Databases:**
 SQL • MySQL • SQLite • Oracle • Microsoft SQL Server (SSMS) • Firebase • MongoDB
 
-**Graph & Semantic Technologies**
+**Graph & Semantic Technologies:**
 GraphDB • Neo4j • SPARQL • SHACL
 
-**Tools & Platforms**
+**Tools & Platforms:**
 Git • Jira • Confluence • Postman • Protégé • Azure • Heroku • Overleaf
 
 
