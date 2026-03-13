@@ -2,7 +2,7 @@
 
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me | ![Visitor Count](https://komarev.com/ghpvc/?username=PabasaraPalihena\&color=blue)
 
 **🎓 Currently pursuing a Master’s degree in Web Engineering at TU Chemnitz, Germany**
 
@@ -49,12 +49,6 @@ Git • Jira • Confluence • Postman • Protégé • Azure • Heroku • O
 ## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabasaraPalihena\&layout=compact\&theme=radical)
-
-
-
-## 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=PabasaraPalihena\&color=blue)
 
 
 
