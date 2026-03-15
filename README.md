@@ -36,7 +36,7 @@ SQL • MySQL • SQLite • Oracle • Microsoft SQL Server (SSMS) • Firebase
 GraphDB • Neo4j • SPARQL • SHACL
 
 **Tools & Platforms:**
-Git • Jira • Confluence • Postman • Protégé • Azure • Heroku • Overleaf
+Git • Jira • Confluence • Postman • Protégé • Azure • Heroku • Overleaf • Notion
 
 
 
