@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Pabasara Palihena</h1>
+<h1 align="center">Hi...👋 I'm Pabasara Palihena</h1>
 
 
 
